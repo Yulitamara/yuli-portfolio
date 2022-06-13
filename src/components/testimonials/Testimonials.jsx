@@ -22,7 +22,7 @@ const data = [
   },
   {
     image: AVATAR2,
-    name: "Name",
+    name: "Maya",
     review:
       "Lorem ipsum dolor sit amet consectetur adipisicing elit. Harum repellendus quaerat quod placeat modi dolorem voluptate! Iste, laudantium neque facilis vitae unde cumque sint deserunt. Natus facere iusto et accusamus!",
   },
